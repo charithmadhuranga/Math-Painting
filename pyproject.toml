@@ -1,0 +1,10 @@
+[project]
+name = "app-3-project-math-painting"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.2.0",
+    "pillow>=11.0.0",
+]
